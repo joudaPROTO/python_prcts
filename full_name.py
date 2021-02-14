@@ -19,5 +19,3 @@ print(fav_lang2)
 print(fav_lang3)
 
 #up-to-date with main
-
-
